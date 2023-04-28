@@ -1,8 +1,8 @@
-# PRETTY CLOCK :clock: :ribbon:
+# PRETTY CLOCK :watch: :ribbon:
 
 ![GitHub CI](https://github.com/angeldollface/pretty-clock/actions/workflows/vue.yml/badge.svg)
 
-***A small Vue.js 3 app to give you a prettier clock. :clock: :ribbon:***
+***A small Vue.js 3 app to give you a prettier clock. :watch: :ribbon:***
 
 ## ABOUT :books:
 
@@ -67,5 +67,5 @@ $ npm run build
 
 ## NOTE :scroll:
 
-- *Pretty Clock :clock: :ribbon:* by Alexander Abraham :black_heart: a.k.a. *"Angel Dollface" :dolls: :ribbon:*
+- *Pretty Clock :watch: :ribbon:* by Alexander Abraham :black_heart: a.k.a. *"Angel Dollface" :dolls: :ribbon:*
 - Licensed under the MIT license.
