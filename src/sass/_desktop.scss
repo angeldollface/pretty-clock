@@ -1,0 +1,49 @@
+/*
+PRETTY CLOCK by Alexander Abraham, a.k.a. "Angel Dollface".
+Licensed under the MIT license.
+*/
+
+html {
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+// The div that holds the time.
+div.time {
+    margin: 0 auto;
+    display: block;
+    margin-top: 30vh !important;
+    width: 60%;
+    margin-bottom: 0px !important;
+    background-color: $mainColor;
+    box-shadow: 1px 2px 15px $shadowColor;
+    border-radius: 25px;
+    padding: 0px;
+}
+
+// The text that holds the time.
+p.time {
+    font-size: 20vh;
+    font-family: $stdFont;
+    color: $accentColor;
+    padding: 30px;
+    margin: 0px;
+    text-align: center;
+}

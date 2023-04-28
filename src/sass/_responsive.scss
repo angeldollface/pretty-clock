@@ -1,0 +1,14 @@
+/*
+PRETTY CLOCK by Alexander Abraham, a.k.a. "Angel Dollface".
+Licensed under the MIT license.
+*/
+
+@media screen and (max-width: 800px){
+    div.time {
+        width: 70%;
+        margin-top: 35vh !important;
+    }
+    p.time {
+        font-size: 10vh;
+    }
+}
