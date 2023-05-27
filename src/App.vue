@@ -31,12 +31,6 @@ Styling our app. We use SASS
 because I love it.
 -->
 <style lang="scss">
-// Loading our remote font.
-@font-face{
-    font-family: 'DotMatrix';
-    src: url('https://angeldollface.art/assets/fonts/ttf/DotMatrix.ttf') format('truetype');
-}
-   
 // Setting our layout variables.
 $stdFont: 'DotMatrix';
 $mainColor: #FFFFFF;
