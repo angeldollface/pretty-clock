@@ -10,11 +10,11 @@ While I was recording a live-mix on my Pioneer DJ equipment, I thought it would 
 
 ## DEPLOYED PROJECT ON GITHUB PAGES :rocket:
 
-To view a live deployed version of this project, click here: [VIEW](https://angeldollface.art/pretty-clock)
+To view a live deployed version of this project, click here: [VIEW](https://angeldollface.boo/pretty-clock)
 
 ## USAGE :hammer:
 
-- 1.) Visit [this link](https://angeldollface.art/pretty-clock).
+- 1.) Visit [this link](https://angeldollface.boo/pretty-clock).
 - 2.) Enjoy. :heart_on_fire:
 
 ## TRY THE CODE FOR YOURSELF! :inbox_tray:
